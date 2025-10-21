@@ -1,0 +1,41 @@
+[2025-10-11 21:58:44] - [No Message Provided]
+[2025-10-11 21:59:32] - [[object Object]]
+[2025-10-11 22:00:05] - ["{\n  \"nome_servico\": \"ConfigReader\",\n  \"versao\": \"1.0\",\n  \"ambiente\": \"dev\"\n}"]
+[2025-10-11 22:21:02] - [{
+  "nome_servico": "ConfigReader",
+  "versao": "1.0",
+  "ambiente": "dev"
+}]
+[2025-10-11 22:21:29] - [{
+  "nome_servico": "ConfigReader",
+  "versao": "1.0",
+  "ambiente": "dev"
+}]
+[2025-10-11 22:23:04] - [{
+  "nome_servico": "ConfigReader",
+  "versao": "1.0",
+  "ambiente": "dev"
+}]
+[2025-10-11 22:40:39] - [{
+  "nome_servico": "ConfigReader",
+  "versao": "1.0",
+  "ambiente": "dev"
+}]
+"[2025-10-11 22:41:48] - [{\n  \"nome_servico\": \"ConfigReader\",\n  \"versao\": \"1.0\",\n  \"ambiente\": \"dev\"\n}]\n"{2025-10-11 22:45:46 - {
+  "nome_servico": "ConfigReader",
+  "versao": "1.0",
+  "ambiente": "dev"
+}{2025-10-11 22:45:53 - {
+  "nome_servico": "ConfigReader",
+  "versao": "1.0",
+  "ambiente": "dev"
+}[2025-10-11 22:47:20] - [{
+  "nome_servico": "ConfigReader",
+  "versao": "1.0",
+  "ambiente": "dev"
+}]
+[2025-10-11 22:48:39] - [{
+  "nome_servico": "ConfigReader",
+  "versao": "1.0",
+  "ambiente": "dev"
+}]
